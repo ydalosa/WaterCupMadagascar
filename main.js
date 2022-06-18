@@ -1,4 +1,4 @@
-const words =[" Merci Pasteur"]
+const words =[" Merci Andy: 20e"]
 let cursor = gsap.to('.cursor', {opacity: 0, ease:"power2.inOut", repeat:-1})
 
 let boxTl = gsap.timeline()
